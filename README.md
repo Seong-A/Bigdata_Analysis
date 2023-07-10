@@ -19,16 +19,21 @@ Factors of Local Population Decline ( 지방 인구 감소 요인 도출 )
 
 2. 데이터 수집 (공공데이터포털, 국가통계포털 활용)
    - 저출산과 고령화 데이터 : 행정안전부_지역별(행정동) 성별 연령별 주민등록 인구수 데이터
+
      (https://www.data.go.kr/data/15097972/fileData.do#tab-layer-openapi)
    - 인구 이동 데이터 : 시군구별 이동자 수, 국내 인구 이동 통계 데이터
+
      (https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B26001_A01&vw_cd=MT_ZTITLE&list_id=A_1&seqNo=&lang_mode=ko&language=kor&obj_var_id=&itm_id=&conn_path=MT_ZTITLE)
    - 일자리 데이터 : 시도별 직업별 취업자, 경제 활동 인구 조사 데이터
+
      (https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1DA7E34S&conn_path=I2)
    - 응급의료기관 데이터 : 보건복지부_시도별 응급의료기관 수 데이터  
+
      (https://www.data.go.kr/data/15044540/fileData.do#tab-layer-openapi)
    
 3. 데이터보기
    - 데이터 유형 분석에 사용한 코드
+
      import pandas as pd (데이터 프레임을 사용하기 위한 판다스 라이브러리 불러오기)
      
      file_path = '~' (파일경로를 찾고 변수 file_path에 저장)
