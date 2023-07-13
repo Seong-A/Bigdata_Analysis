@@ -84,6 +84,7 @@ Factors of Local Population Decline ( 지방 인구 감소 요인 도출 )
 6. 데이터 시각화
 
    : 4개의 데이터를 한 그래프로 표현하였으나, 모든 데이터의 기준 수가 달라 각 데이터의 실제 값을 기준으로 지역 비교의 데이터 시각화 진행함.
+<img width="1045" alt="스크린샷 2023-07-11 오전 12 16 40" src="https://github.com/Seong-A/Bigdata_Analysis/assets/83965377/019586b5-4cc9-4b32-a33a-6561a6bdbd1a">
 
 
 
